@@ -1,4 +1,4 @@
-/*Ques. 13. Write a program for multilevel queue scheduling algorithm. There must be three
+/*Ques. 6. Write a program for multilevel queue scheduling algorithm. There must be three
 /queues generated. There must be specific range of priority associated with every queue. Now
 prompt the user to enter number of processes along with their priority and burst time. Each
 process must occupy the respective queue with specific priority range according to its priority.
